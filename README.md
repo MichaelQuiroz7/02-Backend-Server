@@ -1,0 +1,1 @@
+ejecutar proyecto con el comendo " npm rum prod" 
